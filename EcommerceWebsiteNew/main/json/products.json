@@ -1,0 +1,108 @@
+{
+    "products":[
+      {
+          "id":"1",
+          "brand": "H&M",
+          "name": "Floral Buttoned Shirt",
+          "file": "img/products/1.jpg",
+          "variants": {
+            "v1": "main/img/product-variants/1a.jpg",
+            "v2": "main/img/product-variants/1b.jpg",
+            "v3": "main/img/product-variants/1c.jpg"
+          },
+          "stars": 4,
+          "price": "750.00"
+      },
+      {
+        "id":"2",
+        "brand": "H&M",
+        "name": "Leaf Buttoned Shirt",
+        "file": "img/products/2.jpg",
+        "variants": {
+          "v1": "main/img/product-variants/2a.jpg",
+          "v2": "main/img/product-variants/2b.jpg",
+          "v3": "main/img/product-variants/2c.jpg"
+        },
+        "stars": 3,
+        "price": "700.00"
+    },
+    {
+        "id":"3",
+        "brand": "H&M",
+        "name": "Roses Buttoned Shirt",
+        "file": "img/products/3.jpg",
+        "variants": {
+          "v1": "main/img/product-variants/3a.jpg",
+          "v2": "main/img/product-variants/3b.jpg",
+          "v3": "main/img/product-variants/3c.jpg"
+        },
+        "stars": 4,
+        "price": "900.00"
+    },
+    {
+        "id":"4",
+        "brand": "Uniqlo",
+        "name": "Sakura Polo Shirt",
+        "file": "img/products/4.jpg",
+        "variants": {
+          "v1": "main/img/product-variants/4a.jpg",
+          "v2": "main/img/product-variants/4b.jpg",
+          "v3": "main/img/product-variants/4c.jpg"
+        },
+        "stars": 3,
+        "price": "1,200.00"
+    },
+    {
+        "id":"5",
+        "brand": "adidas",
+        "name": "Roses Polo Shirt",
+        "file": "img/products/5.jpg",
+        "variants": {
+          "v1": "main/img/product-variants/5a.jpg",
+          "v2": "main/img/product-variants/5b.jpg",
+          "v3": "main/img/product-variants/5c.jpg"
+        },
+        "stars": 4,
+        "price": "1,200.00"
+    },
+    {
+        "id":"6",
+        "brand": "Uniqlo",
+        "name": "Long Sleeve Shirt",
+        "file": "img/products/6.jpg",
+        "variants": {
+          "v1": "main/img/product-variants/6a.jpg",
+          "v2": "main/img/product-variants/6b.jpg",
+          "v3": "main/img/product-variants/6c.jpg"
+        },
+        "stars": 5,
+        "price": "1,500.00"
+    },
+    {
+        "id":"7",
+        "brand": "Bench",
+        "name": "Rose Vintage Pants",
+        "file": "img/products/7.jpg",
+        "variants": {
+          "v1": "main/img/product-variants/7a.jpg",
+          "v2": "main/img/product-variants/7b.jpg",
+          "v3": "main/img/product-variants/7c.jpg"
+        },
+        "stars": 4,
+        "price": "1,000.00"
+    },
+    {
+        "id":"8",
+        "brand": "Bench",
+        "name": "Sea Embroidery Skirt",
+        "file": "img/products/8.jpg",
+        "variants": {
+          "v1": "main/img/product-variants/8a.jpg",
+          "v2": "main/img/product-variants/8b.jpg",
+          "v3": "main/img/product-variants/8c.jpg"
+        },
+        "stars": 3,
+        "price": "1,200.00"
+    }
+    ]
+}
